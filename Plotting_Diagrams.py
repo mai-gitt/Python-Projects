@@ -29,7 +29,7 @@ plt.show()
 #  Multiple
 # =======================================
 
-new_temp = np.loadtxt('temperature2.txt')
+new_temp = np.loadtxt('Data\\temperature2.txt')
 plt.plot(new_temp, "g--")
 
 # =======================================
