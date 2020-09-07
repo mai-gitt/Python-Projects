@@ -5,7 +5,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 # get_ipython().run_line_magic('matplotlib', 'inline')
-temp = np.loadtxt('temperature.txt')
+temp = np.loadtxt('Data\temperature.txt')
 plt.plot(temp, 'r--')
 plt.show()
 
