@@ -1,3 +1,3 @@
 Simple python projects
 
-Needs matplot and nympy installed!
+Needs matplot.pyplot, nympy and pandas installed!
