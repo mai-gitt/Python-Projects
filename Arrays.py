@@ -3,7 +3,7 @@
 # =======================================
 
 import numpy as np
-temp = np.loadtxt('Data\temperature.txt')
+temp = np.loadtxt('Data\\temperature.txt')
 print(temp)
 
 # =======================================
