@@ -1,0 +1,85 @@
+Species,Common,Length,Nesttype,Location,No.eggs,Color,Incubate,Nestling,Totcare,NestType
+Tyrannus tyrannus,Eastern Kingbird,20,cup,decid,3.5,One,17,17,34,Open
+Myiodynastes luteiventris,Sulphur-bellied Flycatcher,20,cavity,decid,3.5,One,15.5,17,32.5,Closed
+Myiarchus cinerascens,Ash-thoated Flycatcher,20,cavity,decid,4.5,One,15,15,30,Closed
+Myiarchus tyrannulus,Brown-crested Flycatcher,22.5,cavity,decid,4.5,One,14,16.5,30.5,Closed
+Myarchus tuberculifer,Dusky-capped Flycatcher,17,cavity,decid,4.5,One,14,14,28,Closed
+Sayornis phoebe,Eastern Phoebe,17,cup,bridge,4.5,Two,16,15.5,31.5,Open
+Empidonax wrightii,Gray Flycatcher,15,cup,shrub,3.5,Two,14,16,30,Open
+Pyrocephalus rubinus,Vermillion Flycatcher,15,cup,decid,3,One,14.5,15,29.5,Open
+Pachyramphus algaiae,Rose-throated Becard,16,spherical,decid,5,One,NA,19,NA,Closed
+Alauda arvensis,Eurasion Skylark,18.5,saucer,ground,3.5,One,11.5,9.5,21,Open
+Eremophila alpestris,Horned Lark,19,saucer,ground,3.5,One,11.5,10.5,22,Open
+Riparia riparia,Bank Swallow,12.5,burrow,bank,4.5,Two,15,21,36,Closed
+Stelgidopteryx serripennis,Northern Rough-winged Swallow,13.5,burrow,bank,5.5,Two,12,20,32,Closed
+Hirundo rustica,Barn Swallow,17,cup,building,4.5,One,15,20.5,35.5,Open
+Aphelocoma coerulescens,Scrub Jay,30.5,cup,decid,4.5,One,16,18.5,34.5,Open
+Gymnorhina cyanocephalus,Pinyon Jay,26.5,cup,conif,4.5,One,16.5,21,37.5,Open
+Cyanocitta cristata,Blue Jay,29.5,cup,conif,4.5,One,17,19,36,Open
+Nucifraga columbiana,Clark's Nutcracker,31.5,cup,conif,3,One,17,19.5,36.5,Open
+Perisoreus canadensis,Cray Jay,30.5,cup,decid,3.5,One,17,15,32,Open
+Parus bicolor,Tufted Titmouse,14,cavity,decid,6,One,13.5,16.5,30,Closed
+Parus atricapillus,Black-capped Chickadee,13,cavity,decid,7,One,12,16,28,Closed
+Auriparus flaviceps,Verdin,10.5,spherical,shrub,4.5,One,10,21,31,Closed
+Sitta carolinensis,White-breasted Nuthatch,14,cavity,decid,6.5,One,12,14,26,Closed
+Sitta canadensis,Red-breasted Nuthatch,11,cavity,conif,5.5,One,12,17.5,29.5,Closed
+Sitta pygmaea,Pygmy Nuthatch,10,cavity,conif,7,One,15.5,21,36.5,Closed
+Troglodytes aedon,House Wren,12,cavity,decid,7,One,13,15,28,Closed
+Thryothorus ludovicianus,Carolina Wren,14,cavity,decid,5,One,13,13,26,Closed
+Thryomanes bewickii,Bewick's Wren,13,cavity,decid,6,One,13,14,27,Closed
+Campylorhynchus brunneicapillus,Cactus Wren,20,spherical,shrub,3.5,One,16,21,37,Closed
+Regulus satrapa,Golden-crowned Kinglet,9,pendant,conif,8.5,One,14.5,16.5,31,Closed
+Regulus calendula,Ruby-crowned Kinglet,10,pendant,conif,8,One,12,12,24,Closed
+Sialia sialis,Eastern Bluebird,18,cavity,snag,4.5,Two,13,17.5,30.5,Closed
+Polioptila melanura,Black-tailed Gnatcatcher,11,cup,shrub,4,One,14,12,26,Open
+Sialia currucoides,Mountain Bluebird,18,cavity,snag,5.5,Two,13.5,22.5,36,Closed
+Hylocichla mustelina,Wood Thrush,20,cup,decid,3.5,Two,13.5,12,25.5,Open
+Catharus ustulatus,Swainson's Thrush,18,cup,shrub,3.5,One,13,11.5,24.5,Open
+Catharus guttatus,Hermit Thrush,18,cup,ground,4,Two,12.5,12,24.5,Open
+Turdus migratorius,American Robin,25.5,cup,decid,4,Two,13,15,28,Open
+Lanius excubitor,Northern Shrike,24,cup,conif,5,One,15.5,20,35.5,Open
+Lanius ludovicianus,Loggerhead Shrike,23,cup,decid,5.5,One,16.5,19,35.5,Open
+Dumetella carolinensis,Gray Catbird,23,cup,shrub,4,Two,12.5,10.5,23,Open
+Mimus polyglottos,Northern Mockingbird,25.5,cup,shrub,1,One,12.5,12,24.5,Open
+Oreoscoptes montanus,Sage Thrush,21.5,cup,shrub,4,One,15,12.5,27.5,Open
+Toxostoma rufum,Brown Thrasher,29,cup,shrub,4.5,One,12.5,11,23.5,Open
+Toxostoma curvirostre,Curve-billed Thrasher,26.5,cup,shrub,3.5,One,13.5,14.5,28,Open
+Toxostoma redivivum,California Thrasher,30.5,cup,shrub,3.5,One,14,13,27,Open
+Anthus spinoletta,Water Pipit,16.5,cup,ground,4.5,One,14,14,28,Open
+Motacilla alba,White Wagtail,18,crevice,bank,5.5,One,13,14.5,27.5,Closed
+Cinclus mexicanus,American Dipper,19.5,crevice,cliff,4.5,Two,15,21.5,36.5,Closed
+Motacilla flava,Yellow Wagtail,16,cup,ground,5.5,One,11.5,15.5,27,Open
+Bombycilla cedrorum,Cedar Waxwing,18,cup,decid,4,One,12,16,28,Open
+Phainopepla nitens,Phainopepla,18.5,cup,decid,2.5,One,14,19.5,33.5,Open
+Sturnus vulgaris,European Starling,20,cavity,decid,5,One,13,19.5,32.5,Closed
+Vireo solitarius,Solitary Vireo,14,cup,conif,4,One,14,14,28,Open
+Vireo olivaceus,Red-eyed Vireo,15,cup,shrub,4,One,12.5,11,23.5,Open
+Protonotaria citrea,Prothonotary Warbler,14,cavity,snag,5,One,13,11,24,Closed
+Vermivora pinus,Blue-winged Warbler,12,cup,ground,5,One,10.5,9,19.5,Open
+Dendroica virens,Black-throated Green Warbler,12,cup,conif,4.5,One,12,9,21,Open
+Dendroica striata,Blackpoll Warbler,13,cup,conif,4.5,One,12,11.5,23.5,Open
+Helmitheros vermivorus,Worm-eating Warbler,13.5,cup,ground,4.5,One,13,10,23,Open
+Icteria virens,Yellow-breasted Chat,18,cup,shrub,3.5,One,11,8,19,Open
+Myioborus pictus,Painted Redstart,14,cup,ground,3.5,One,13.5,11,24.5,Open
+Pheucticus ludovicianus,Rose-breasted Grosbeak,19.5,cup,decid,4,One,13.5,10.5,24,Open
+Cardinalis cardinalis,Northern Cardinal,21,cup,shrub,3.5,One,12.5,9.5,22,Open
+Pooecetes gramineus,Vesper Sparrow,15,cup,ground,3.5,One,12,9,21,Open
+Chondestes grammacus,Lark Sparrow,15,cup,ground,4.5,One,11.5,9.5,21,Open
+Melospiza melodia,Song Sparrow,14.5,cup,ground,3.5,One,13,10.5,23.5,Open
+Spizella arborea,American Tree Sparrow,15.5,cup,ground,12.5,One,12.5,9,21.5,Open
+Junco hyemalis,Dark-eyed Junco,15.5,cup,ground,4,One,12.5,11,23.5,Open
+Melospiza lincolnii,Lincoln's Sparrow,14,cup,ground,4.5,One,13,10.5,23.5,Open
+Melospiza georgiana,Swamp Sparrow,13.5,cup,shrub,4.5,One,13.5,12,25.5,Open
+Calarius ornatus,Chestnut-collared Longspur,15,cup,ground,4,One,11.5,11.5,23,Open
+Plectrophenax nivalis,Snow Bunting,17,crevice,ground,5.5,One,13,13.5,26.5,Closed
+Calamospiza melanocorys,Lark Bunting,18,cup,ground,4.5,Two,11.5,8.5,20,Open
+Dolichonyx oryzivorus,Bobolink,17.5,cup,ground,5.5,One,11.5,12,23.5,Open
+Agelaius phoeniceus,Red-winged Blackbird,21,cup,shrub,3.5,One,11,12.5,23.5,Open
+Piranga olivacea,Scarlet Tanager,18,saucer,decid,4,One,13.5,10,23.5,Open
+Passer domesticus,House Sparrow,15,cavity,building,5,One,11.5,15.5,27,Closed
+Carduelis pinus,Pine Siskin,12,saucer,conif,3.5,One,13,14.5,27.5,Open
+Carduelis tristis,American Goldfinch,13,cup,shrub,5,Two,11,14,25,Open
+Pinicola enucleator,Pine Grosbeak,22.5,cup,conif,4,One,14,15.5,29.5,Open
+Leucosticte arctoa,Rosy Finch,15.5,cup,ground,4.5,Two,13,18,31,Open
+Carpodacus purpureus,Purple Finch,14.5,cup,conif,4.5,One,13,14,27,Open
+Carpodacus mexicanus,House Finch,13.5,cup,decid,4.5,One,13,15,28,Open
