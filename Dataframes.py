@@ -170,14 +170,42 @@ print(gm_nz)
 #  More Visualisation
 # =======================================
 
+gm_am = gm.loc[gm['continent'] == 'Americas']
+gm_am.country.unique().size
+country_ls = gm_am.country.unique()
+print("=======================================")
+print(country_ls)
 
 # =======================================
 
+gdpPercap_avg = np.zeros(25)
+
+for i in range(0, gm_am.country.unique().size):
+    dft = gm_am.loc[gm_am.country == country_ls[i]]
+    gdpPercap_avg[i] = dft.gdpPercap.mean()
+
+print("=======================================\nAverage Americas GDP Per Capita")
+print(gdpPercap_avg)
 
 # =======================================
 
+x = np.arange(1, 200, 8)
+plt.bar(x, gdpPercap_avg, width=3.5)
+plt.xticks(x, (country_ls), rotation='vertical')
 
 # =======================================
 
+gm_sorted = np.sort(gdpPercap_avg)
+print("=======================================")
+print(gm_sorted)
+print("Highest 3 GDP Per Capita")
+print(gm_sorted[0:3])
+print("Lowest 3 GDP Per Capita")
+print(gm_sorted[-3:])
 
 # =======================================
+
+gm_am2 = gm[(gm['continent'] == 'Americas') & (gm['year'] == 2007)]
+print("Min Population in Americas in 2007")
+print(gm_am2['pop'].min())
+
